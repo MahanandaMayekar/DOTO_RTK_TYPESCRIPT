@@ -37,7 +37,7 @@ export const AddTodoForm = () => {
           </Form>
           <div>
             {Todos.map((todo) => (
-              <TodoList key={todo.id} text={todo.text} />
+              <TodoList key={todo.id} text={todo.text} id={todo.id} completed={todo.completed}/>
             ))}
           </div>
         </Col>
