@@ -1,5 +1,40 @@
 # React + TypeScript + Vite
 
+## 🚀 Features
+
+- ➕ Add todos
+- ✅ Toggle complete/incomplete
+- ❌ Delete todos
+- 💾 State management using Redux Toolkit
+- 🔒 Type safety with TypeScript
+
+
+![Screenshot](./src/assets/todo2.png)
+![Screenshot](./src/assets/todo1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -54,14 +89,4 @@ export default tseslint.config({
 ```
 
 
-## 🚀 Features
 
-- ➕ Add todos
-- ✅ Toggle complete/incomplete
-- ❌ Delete todos
-- 💾 State management using Redux Toolkit
-- 🔒 Type safety with TypeScript
-
-
-![Screenshot](./src/assets/todo2.png)
-![Screenshot](./src/assets/todo1.png)
